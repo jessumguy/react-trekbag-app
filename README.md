@@ -1,10 +1,16 @@
 # React Trekkbag App
 
+Demo: https://jessumguy.github.io/react-trekbag-app/
+
+https://github.com/user-attachments/assets/e9f0e113-ca3b-4e8a-89b1-5b31b570846a
+
+
 Made using:
 
 - Javscript
 - CSS
 - React
+- Zustand
 
 # Notes:
 
